@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/06/2014, 02:50:38 PM
+    Author     : Luchy
+*/
+
+html, body {
+    height: 100%;
+    text-align: center;
+}
+
+.wrapper {
+   min-height: 100%;
+   height: auto !important;
+   height: 100%;
+   margin: 0 auto -300px;
+}
+
+#id_tabla_resultados {
+    width: 100%;
+    text-align: center; 
+}
+
+
+
+#id_buscador_Marco {
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+    margin-bottom: 3px;
+}
+
+#sec_resultados {
+    width: 58.7%;
+    height: auto;
+    padding: 5px;
+    margin-left: 20.2%;
+    margin-right: 200px;
+    margin-top: -503px;
+}
+
+#id_banner_SuperiorInicio {
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+    margin-bottom: 3px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#id_banner_IzquierdoInicio {
+    width: 19.8%;
+    height: 500px;   
+    background-color: gray;
+    margin-top: 3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    text-align: center;
+    font-size: 30px;
+}
+
+#id_banner_DerechoInicio {
+    width: 19.8%;
+    height: 500px;   
+    background-color: gray;
+    margin-top: -503px;
+    margin-left: 977px;
+    margin-bottom: 3px;
+    text-align: center;
+    font-size: 30px;
+    float: right;
+}
+
+.footer, .push {
+    margin-top: 467px;
+    height: 300px;
+    background-color: gray;
+    text-align: center;
+}
+
+.push {
+    background-color: transparent;
+    position: fixed;
+}
+
+#id_info_inmueble{
+    margin-top: -380px;
+}
+
